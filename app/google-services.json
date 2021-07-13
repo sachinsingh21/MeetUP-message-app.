@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "182070447688",
+    "firebase_url": "https://messageapp-f97a1-default-rtdb.firebaseio.com",
+    "project_id": "messageapp-f97a1",
+    "storage_bucket": "messageapp-f97a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182070447688:android:4985c2e15f9f5f09ed527d",
+        "android_client_info": {
+          "package_name": "com.example.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182070447688-829ev9uoi2578uo3scv1g52hj9ksaft5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQI0f8aRaEGdPpLtXhcmcoHdtK5An9q0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182070447688-829ev9uoi2578uo3scv1g52hj9ksaft5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

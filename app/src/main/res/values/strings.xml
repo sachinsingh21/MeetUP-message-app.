@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MeetUp</string>
+    <string-array name="services">
+        <item>Netflix</item>
+        <item>Amazon Prime</item>
+        <item>Hulu</item>
+        <item>Vudu</item>
+        <item>HBO Now</item>
+        <item>Youtube Originals</item>
+        <item>None</item>
+    </string-array>
+    <string name="fcm_message"> New Notification </string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">dafault</string>
+</resources>
